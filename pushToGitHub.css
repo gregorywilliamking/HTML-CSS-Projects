@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.content {
+    background-color: green;
+    color: yellow;
+    height: 300px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    height: 200px;
+}
